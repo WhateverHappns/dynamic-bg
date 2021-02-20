@@ -1,3 +1,17 @@
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** github_username, repo_name, twitter_handle, email, project_title, project_description
+-->
+
+
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/WhateverHappns/dynamic-db">
+  <a href="https://github.com/WhateverHappns/dynamic-bg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,10 +41,14 @@
   <p align="center">
     project_description
     <br />
-  href="https://github.com/WhateverHappns/dynamic-db"><serong>Explore the docs Î
-://github.com/WhateverHappns/dynamic-db">View Demo</a>
-    Îutema://github.com/WhateverHappns/dynamic-db/issues">Report Bug</a>
-    Automatically changes your Windows background image using python https://github.com/WhateverHappns/dynamic-db/issues">Request Feature</a>
+    <a href="https://github.com/WhateverHappns/dynamic-bg"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/WhateverHappns/dynamic-bg">View Demo</a>
+    ·
+    <a href="https://github.com/WhateverHappns/dynamic-bg/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/WhateverHappns/dynamic-bg/issues">Request Feature</a>
   </p>
 </p>
 
