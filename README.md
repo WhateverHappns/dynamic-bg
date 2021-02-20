@@ -171,16 +171,16 @@ Project Link: [https://github.com/WhateverHappns/dynamic-bg](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/WhateverHappns/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/WhateverHappns/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/WhateverHappns/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/WhateverHappns/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/WhateverHappns/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/WhateverHappns/repo/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/WhateverHappns/dynamic-bg.svg?style=for-the-badge
+[contributors-url]: https://github.com/WhateverHappns/dynamic-bg/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/WhateverHappns/dynamic-bg.svg?style=for-the-badge
+[forks-url]: https://github.com/WhateverHappns/dynamic-bg/network/members
+[stars-shield]: https://img.shields.io/github/stars/WhateverHappns/dynamic-bg.svg?style=for-the-badge
+[stars-url]: https://github.com/WhateverHappns/dynamic-bg/stargazers
 [issues-shield]: https://img.shields.io/github/issues/WhateverHappns/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/WhateverHappns/repo/issues
-[license-shield]: https://img.shields.io/github/license/WhateverHappns/repo.svg?style=for-the-badge
-[license-url]: https://github.com/WhateverHappns/repo/blob/master/LICENSE.txt
+[issues-url]: https://github.com/WhateverHappns/dynamic-bg/issues
+[license-shield]: https://img.shields.io/github/license/WhateverHappns/dynamic-bg.svg?style=for-the-badge
+[license-url]: https://github.com/WhateverHappns/dynamic-bg/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/WhateverHappns
 thon.
