@@ -6,9 +6,9 @@ import glob
 import requests
 
 SPI_SETDESKWALLPAPER = 20
-PATH = 'C:/Users/Tammo/SideProjects/randombackground/'
+PATH = os.environ['USERPROFILE'] + '\\dynamic-bg\\'
 
-df = pd.read_csv(PATH + 'unsplash/photos.csv')
+df = pd.read_csv(PATH + 'unsplash\\photos.csv')
 
 def getNewWallpaper():
     photo = random.choice(df['photo_image_url'])
