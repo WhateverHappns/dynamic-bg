@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WhateverHappns/dynamic-bg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.svgrepo.com/show/294136/photo-image.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
