@@ -1,17 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** WhateverHappns, dynamic-db, twitter_handle, email, project_title, project_description
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -41,10 +27,10 @@
   <p align="center">
     project_description
     <br />
-  href="https://github.com/WhateverHappns/dynamic-db"><serong>Explore the docs Î
+  href="https://github.com/WhateverHappns/dynamic-db"><serong>Explore the docs ÃŽ
 ://github.com/WhateverHappns/dynamic-db">View Demo</a>
-    Îutema://github.com/WhateverHappns/dynamic-db/issues">Report Bug</a>
-    Îtieally changes your Windows background using py://github.com/WhateverHappns/dynamic-db/issues">Request Feature</a>
+    ÃŽutema://github.com/WhateverHappns/dynamic-db/issues">Report Bug</a>
+    Automatically changes your Windows background image using python https://github.com/WhateverHappns/dynamic-db/issues">Request Feature</a>
   </p>
 </p>
 
@@ -90,9 +76,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Python](https://www.python.org)
+* [Unsplash](https://unsplash.com)
 
 
 
@@ -113,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/WhateverHappns/dynamic-db.git
+   git clone https://github.com/WhateverHappns/dynamic-bg.git
    ```
 2. Install NPM packages
    ```sh
@@ -134,14 +119,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/WhateverHappns/dynamic-db/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/WhateverHappns/dynamic-bg/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -163,17 +146,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/WhateverHappns/dynamic-db](https://github.com/WhateverHappns/dynamic-db)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
+Project Link: [https://github.com/WhateverHappns/dynamic-bg](https://github.com/WhateverHappns/dynamic-bg)
 
 
 
