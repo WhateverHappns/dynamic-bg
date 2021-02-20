@@ -2,7 +2,6 @@ import ctypes
 import os, random
 import datetime as dt
 import pandas as pd
-import glob
 import requests
 
 SPI_SETDESKWALLPAPER = 20
