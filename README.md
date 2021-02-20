@@ -14,10 +14,10 @@
     <img src="https://www.svgrepo.com/show/294136/photo-image.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">dynamic-bg</h3>
 
   <p align="center">
-    project_description
+    Automatically change your Windows background image to a random HQ photo.
     <br />
     <a href="https://github.com/WhateverHappns/dynamic-bg"><strong>Explore the docs »</strong></a>
     <br />
