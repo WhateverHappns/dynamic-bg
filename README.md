@@ -136,17 +136,6 @@ See the [open issues](https://github.com/WhateverHappns/dynamic-bg/issues) for a
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/WhateverHappns/dynamic-bg](https://github.com/WhateverHappns/dynamic-bg)
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/WhateverHappns/dynamic-bg.svg?style=for-the-badge
