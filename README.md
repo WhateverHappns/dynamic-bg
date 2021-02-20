@@ -148,6 +148,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/WhateverHappns/dynamic-bg/issues
 [license-shield]: https://img.shields.io/github/license/WhateverHappns/dynamic-bg.svg?style=for-the-badge
 [license-url]: https://github.com/WhateverHappns/dynamic-bg/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/WhateverHappns
-thon.
