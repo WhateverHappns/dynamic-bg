@@ -106,7 +106,7 @@ Clone the repository into your Windows USERPROFILE path. (e.g. "C:/Users/Peter")
 
 4. Right click on the newly created folder and click "Create Basic Task"
 
-   ![Image 2](images/CaptureClick.PNG)
+   ![Image 2](images/CaptureClick.png)
 
 5. Give the task a name and (optionally) a description
 
