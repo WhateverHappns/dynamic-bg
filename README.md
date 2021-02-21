@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](cover.png)
+![Product Name Screen Shot](images/cover.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -98,11 +98,29 @@ Clone the repository into your Windows USERPROFILE path. (e.g. "C:/Users/Peter")
    ```sh
    git clone https://github.com/WhateverHappns/dynamic-bg.git
    ```
-<!-- 2. Install NPM packages
-   ```sh
-   npm install
-   ```
--->
+2. Open "Task Scheduler" from the Windows Menu
+
+3. Right click the folder "Task Scheduler Library" and create a new folder called "MyTasks" (or anything else)
+
+   ![Image 1](images/Capture.PNG)
+
+4. Right click on the newly created folder and click "Create Basic Task"
+
+   ![Image 2](images/CaptureClick.PNG)
+
+5. Give the task a name and (optionally) a description
+
+   ![Image 3](images/Capture2.PNG)
+
+6. Next, click "Daily" and change the time to anything you want. This will be the time when the task gets executed
+
+   ![Image 4](images/Capture3.PNG) ![Image 5](images/Capture4.PNG)
+
+7. Open the "Browse" folder to locate the path to the dynamic-bg/dist/launcher.vbs file. Ideally, this should be in your user folder like so:
+
+   ![Image 6](images/Capture5.PNG)
+
+8. Click Finish.
 
 
 <!-- USAGE EXAMPLES -->
