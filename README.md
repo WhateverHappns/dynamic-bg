@@ -83,7 +83,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 Note that you only need these prerequisites if you want to use the ".py" version. You may use the ".exe" as well as the Batch and VBScript without having to install these dependencies.
 Dynamic-bg depends on [Pandas](https://pypi.org/project/pandas/) to open the ".csv" file located in the "unsplash" directory.
 * pip 
