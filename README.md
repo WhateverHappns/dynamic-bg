@@ -84,22 +84,26 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+Note that you only need these prerequisites if you want to use the ".py" version. You may use the ".exe" as well as the Batch and VBScript without having to install these dependencies.
+Dynamic-bg depends on [Pandas](https://pypi.org/project/pandas/) to open the ".csv" file located in the "unsplash" directory.
+* pip 
   ```sh
-  npm install npm@latest -g
+  pip install pandas
   ```
 
 ### Installation
+
+Clone the repository into your Windows USERPROFILE path. (e.g. "C:/Users/Peter")
 
 1. Clone the repo
    ```sh
    git clone https://github.com/WhateverHappns/dynamic-bg.git
    ```
-2. Install NPM packages
+<!-- 2. Install NPM packages
    ```sh
    npm install
    ```
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
