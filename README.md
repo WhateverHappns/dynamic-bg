@@ -63,10 +63,11 @@
 ## About The Project
 
 ![Product Name Screen Shot](images/cover.png)
-
+<!--
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `WhateverHappns`, `dynamic-db`, `twitter_handle`, `email`, `project_title`, `project_description`
+-->
 
 
 ### Built With
@@ -123,12 +124,13 @@ Clone the repository into your Windows USERPROFILE path. (e.g. "C:/Users/Peter")
 8. Click Finish.
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+-->
 
 
 
