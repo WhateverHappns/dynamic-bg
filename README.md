@@ -124,11 +124,15 @@ Clone the repository into your Windows USERPROFILE path. (e.g. "C:/Users/Peter")
 8. Click Finish.
 
 
-<!-- USAGE EXAMPLES
+<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+To change your background wallpaper on the tap of a button, download [AutoHotKey](https://www.autohotkey.com) and right click your desktop. Click "New" and "AutoHotKey Script", then add 
+   ```sh
+   ^b
+   Run,pythonw C:\Users\YOURNAME\dynamic-bg\main.py
+   ```
+<!--
 _For more examples, please refer to the [Documentation](https://example.com)_
 -->
 
