@@ -13,7 +13,7 @@
     <img src="https://www.svgrepo.com/show/21256/chameleon.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">dynamic-bg</h3>
+  <h3 align="center">Chameleon-bg</h3>
 
   <p align="center">
     Automatically change your Windows background image to a random HQ photo.
@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 Note that you only need these prerequisites if you want to use the ".py" version. You may use the ".exe" as well as the Batch and VBScript without having to install these dependencies.
-Dynamic-bg depends on [Pandas](https://pypi.org/project/pandas/) to open the ".csv" file located in the "unsplash" directory.
+Chameleon-bg depends on [Pandas](https://pypi.org/project/pandas/) to open the ".csv" file located in the "unsplash" directory.
 * pip 
   ```sh
   pip install pandas
