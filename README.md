@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WhateverHappns/dynamic-bg">
-    <img src="https://www.svgrepo.com/show/53049/image.svg" alt="Logo" width="80" height="80">
+    <img src="https://www.svgrepo.com/show/21256/chameleon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">dynamic-bg</h3>
